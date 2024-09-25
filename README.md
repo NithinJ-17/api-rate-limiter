@@ -6,6 +6,10 @@ This is a FastAPI-based application that provides rate-limiting features for dif
 
 Deployment URL : http://api-rate-limiter-env.eba-7et5iisk.us-east-1.elasticbeanstalk.com/docs
 
+Design :
+
+![image](https://github.com/user-attachments/assets/4818bf2f-71af-401a-b266-d244a74f20b3)
+
 ### **Prerequisites**
 - Docker
 - Docker Compose (Optional, for local testing)
